@@ -1,8 +1,8 @@
 class Glowbug < Formula
   desc "Host daemon for Glowbug - the desk device that shows your Claude Code sessions"
   homepage "https://glowbug.dev"
-  url "https://github.com/pud/glowbug/archive/refs/tags/v1.4.15.tar.gz"
-  sha256 "8f23532cf2762a5499bd153729794ae74eeb7c76cf8cfbfef3a43dc8cf97f767"
+  url "https://github.com/pud/glowbug/archive/refs/tags/v1.4.16.tar.gz"
+  sha256 "1929c484ab8944ab0e79c1a4adf8dc6b8a95d7dd106a559293b3f3fcd45c5165"
   license "MIT"
 
   depends_on "dfu-util"   # `glowbug rescue` flashes over USB DFU
