@@ -1,5 +1,5 @@
 class Glowbug < Formula
-  desc "Host daemon for Glowbug - the desk device that shows your Claude Code sessions"
+  desc "Host daemon for Glowbug - the machined aluminum bar that shows your coding-agent sessions"
   homepage "https://glowbug.dev"
   url "https://github.com/pud/glowbug/archive/refs/tags/v1.4.16.tar.gz"
   sha256 "1929c484ab8944ab0e79c1a4adf8dc6b8a95d7dd106a559293b3f3fcd45c5165"
