@@ -1,8 +1,8 @@
 class Glowbug < Formula
   desc "Host daemon for Glowbug - the machined aluminum bar that shows your coding-agent sessions"
   homepage "https://glowbug.dev"
-  url "https://github.com/pud/glowbug/archive/refs/tags/v1.5.0.tar.gz"
-  sha256 "fb610a8ca7b4036f198c544e66899c979691d3ccdfc8402e95edc0f043bfff5a"
+  url "https://github.com/pud/glowbug/archive/refs/tags/v2.0.0.tar.gz"
+  sha256 "44708f97c445e19eb29791609704d1649a31587d57141c93b587cb3bb3ca26ee"
   license "MIT"
 
   depends_on "dfu-util"   # `glowbug rescue` flashes over USB DFU
